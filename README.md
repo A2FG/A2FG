@@ -5,7 +5,7 @@
 <h3 align="center">🚀 Full Stack Developer | Open Source Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=A2FG&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -14,7 +14,7 @@
 
 ```javascript
 const developer = {
-    name: "Your Name",
+    name: "A2FG",
     location: "Nasiriyah, Iraq 🇮🇶",
     code: ["JavaScript", "Python", "HTML", "CSS", "Bash"],
     technologies: {
@@ -53,23 +53,10 @@ const developer = {
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph"  />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical&hide_border=true" alt="streak stats" />
-</div>
-
----
-
 ### 🐍 Watch the Snake Eat My Contributions!
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YourUsername/YourUsername/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/A2FG/A2FG/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -77,15 +64,7 @@ const developer = {
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourUsername&theme=radical&no-frame=true&row=1&column=7" alt="trophies" />
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=A2FG&theme=radical&no-frame=true&row=1&column=7" alt="trophies" />
 </div>
 
 ---
@@ -125,5 +104,5 @@ const developer = {
 </div>
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/YourUsername">YourUsername</a> - Let's build something amazing together!</i>
+  <i>⭐️ From <a href="https://github.com/A2FG">A2FG</a> - Let's build something amazing together!</i>
 </div>
