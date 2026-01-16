@@ -93,6 +93,3 @@ const developer = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
 
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/A2FG">A2FG</a> - Let's build something amazing together!</i>
-</div>
