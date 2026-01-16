@@ -52,13 +52,6 @@ const developer = {
 
 ---
 
-### 🐍 Watch the Snake Eat My Contributions!
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/A2FG/A2FG/output/github-snake-dark.svg" alt="Snake animation" />    
-</div>
-
-
 ### 💬 Random Dev Quote
 
 <div align="center">
