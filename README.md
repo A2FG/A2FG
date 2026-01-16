@@ -15,7 +15,6 @@
 ```javascript
 const developer = {
     name: "A2FG",
-    location: "Nasiriyah, Iraq 🇮🇶",
     code: ["JavaScript", "Python", "HTML", "CSS", "Bash"],
     technologies: {
         frontEnd: ["React", "HTML5", "CSS3"],
@@ -59,15 +58,6 @@ const developer = {
   <img src="https://raw.githubusercontent.com/A2FG/A2FG/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=A2FG&theme=radical&no-frame=true&row=1&column=7" alt="trophies" />
-</div>
-
----
 
 ### 💬 Random Dev Quote
 
