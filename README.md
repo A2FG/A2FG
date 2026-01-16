@@ -55,7 +55,7 @@ const developer = {
 ### 🐍 Watch the Snake Eat My Contributions!
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/A2FG/A2FG/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/A2FG/A2FG/output/github-snake-dark.svg" alt="Snake animation" />    
 </div>
 
 
