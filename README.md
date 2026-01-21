@@ -22,7 +22,7 @@ const developer = {
         tools: ["Git", "Linux", "Bash", "FileZilla"]
     },
     currentFocus: "Building amazing web experiences",
-    funFact: "I debug with console.log() 😄"
+    funFact: "I debug with console.log()"
 };
 ```
 
