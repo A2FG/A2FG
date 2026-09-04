@@ -10,24 +10,6 @@
 
 ---
 
-### 👨‍💻 About Me
-
-```javascript
-const developer = {
-    name: "A2FG",
-    code: ["JavaScript", "Python", "HTML", "CSS", "Bash"],
-    technologies: {
-        frontEnd: ["React", "HTML5", "CSS3"],
-        backEnd: ["Node.js", "Python"],
-        tools: ["Git", "Linux", "Bash", "FileZilla"]
-    },
-    currentFocus: "Building amazing web experiences",
-    funFact: "I debug with console.log()"
-};
-```
-
----
-
 ### 🛠️ Tech Stack
 
 <div align="center">
@@ -48,14 +30,6 @@ const developer = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux"  />
-</div>
-
----
-
-### 💬 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="random dev quote" />
 </div>
 
 ---
@@ -85,4 +59,3 @@ const developer = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
-
